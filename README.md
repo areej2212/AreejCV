@@ -1,10 +1,9 @@
-This is my personal CV website made using HTML and CSS.
-(link will go here after Vercel)
+This is my CV website made using HTML and CSS.
 
 
 - HTML
 - CSS
 
-Name: Areej Hafeze  
+Name: Areej Hafeez  
 Roll No: 23-L0983
 Section: WEB-6A
